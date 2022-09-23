@@ -13,7 +13,8 @@ const Button = ({type,text,clickHandler}) =>{
 
 Button.propTypes = {
     type : PropTypes.string,
-    text : PropTypes.string
+    text : PropTypes.string,
+    clickHandler : PropTypes.func.isRequired
 }
 
 export default Button;

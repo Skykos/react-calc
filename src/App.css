@@ -3,7 +3,7 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(to bottom right, #7a5cff 0%, #3cd644 100%);
+  background-image: linear-gradient(to bottom right, #4343fa 0%, #030a03 100%);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -37,6 +37,7 @@ body {
   button:hover {
     color: #00a3f5;
     border: 1px solid #ffce5c22;
+    background-color: #5a30a8;
   }
   
   

@@ -12,6 +12,8 @@ const Result = ({ value }) =>{
 }
 
 Result.propTypes = {
-    value: PropTypes.number.isRequired
+    value: PropTypes.number.isRequired,
+    
 }
+
 export default Result;
